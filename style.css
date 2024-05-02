@@ -1,0 +1,24 @@
+h1{
+  text-align: center;
+}
+  
+
+.cont1{
+  height: 300px;
+  width: 100%;
+  background: red;
+  display: flex;
+  
+}
+
+.cont2{
+  height: 300px;
+  width: 33.3%;
+  background: white;
+}
+
+.cont3{
+  height: 300px;
+  width: 33.3%;
+  background: blue;
+}
